@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Seo-garden</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seo-garden&label=Profile%20views&color=0e75b6&style=flat" alt="seo-garden" /> </p>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
