@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Seo-garden</h1>
-<h6>문법을 배울 때, 이것을 왜 배우고 어디에 쓰고 더 나아가 이걸로 무슨 기능을 만들 수 있을까 하고 고민하는 학생입니다.</h6>
+<h3>문법을 배울 때, 이것을 왜 배우고 어디에 쓰고 더 나아가 이걸로 무슨 기능을 만들 수 있을까 하고 고민하는 학생입니다.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seo-garden&label=Profile%20views&color=0e75b6&style=flat" alt="seo-garden" /> </p>
 
 <p align="left">
