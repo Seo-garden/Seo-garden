@@ -6,7 +6,7 @@
 공부를 할 때, "이것을 왜 배우고 어디에 쓰며 더 나아가 어떤 기능에 쓰일 수 있을까" 라는 생각을 하며 공부하는 학생입니다.
 
 
-<p align="left">
+<p align="left"> 
 </p>
 
 <h3 align="left">🛠 Languages and Tools : </h3>
