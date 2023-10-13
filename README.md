@@ -13,7 +13,7 @@
 <p align="left"> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a></p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seo-garden&layout=compact&theme=cobalt)<br>
-
+ 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seo-garden&show_icons=true&theme=radical)</br>
 
 
