@@ -17,8 +17,4 @@ iOS 앱개발에 관심이 많습니다.
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seo-garden&show_icons=true&theme=radical)</br>
 
-  
-  
-
- 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seo-garden&theme=dark" alt="seo-garden" /></p>
