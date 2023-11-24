@@ -13,7 +13,7 @@ iOS 앱개발에 관심이 많습니다.
 <h3 align="left">🛠 Languages and Tools : </h3>
 <p align="left"> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a></p>
 
-<h3 style="display: inline-block; vertical-align: middle;"> 🎞Career </h3>
+<h3 style="display: inline-block; vertical-align: middle;"> 🎞 Career </h3>
 
 - 앨런 Swift문법 마스터 스쿨 29기(2024.01 ~)
 
