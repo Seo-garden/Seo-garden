@@ -13,6 +13,9 @@ iOS 앱개발에 관심이 많습니다.
 <h3 align="left">🛠 Languages and Tools : </h3>
 <p align="left"> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a></p>
 
+🎞Career
+앨런 Swift문법 마스터 스쿨 29기
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seo-garden&layout=compact&theme=cobalt)<br>
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seo-garden&show_icons=true&theme=radical)</br>
