@@ -15,7 +15,7 @@ iOS 앱개발에 관심이 많습니다.
 
 <h2 style="display: inline-block; vertical-align: middle;">🎞Career </h2>
 
--앨런 Swift문법 마스터 스쿨 29기(2024.01 ~)
+- 앨런 Swift문법 마스터 스쿨 29기(2024.01 ~)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seo-garden&layout=compact&theme=cobalt)<br>
  
