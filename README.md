@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Seo-garden</h1><p align="left"> <img src="https://komarev.com/ghpvc/?username=seo-garden&label=Profile%20views&color=0e75b6&style=flat" alt="seo-garden" /> </p>
 <h2 style="display: inline-block; vertical-align: middle;">📌소개</h2>
-영남이공대학교 소프트웨어콘텐츠학과 재학중인 서정원입니다. 
+영남이공대학교 소프트웨어콘텐츠계열 졸업 후 영남이공대학교 소프트웨어콘텐츠학과(전공심화과정) 재학중인 서정원입니다. 
 
 <p align="left"> 
 </p>   
