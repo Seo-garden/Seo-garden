@@ -23,6 +23,6 @@
 
 </p>
 
-<h2 style="display: inline-block; vertical-align: middle;">🏅Solved ac </h2>
+<h2 style="display: inline-block; vertical-align: middle;">🏅Solved ac : </h2>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jjcw2227)](https://solved.ac/jjcw2227)
