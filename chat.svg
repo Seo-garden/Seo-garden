@@ -251,8 +251,8 @@
 
   <!-- From Columbus... -->
   <g transform="translate(10, 70)" class="msg-2">
-    <rect width="400" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">🏫 영남이공대학교 소프트웨어콘텐츠학과 재학중이고</text>
+    <rect width="380" height="42" rx="18.0355" class="bubble" />
+    <text x="15" y="27">🏫 영남이공대학교 소프트웨어콘텐츠학과 졸업했고</text>
   </g>
 
   <!-- typing 3 -->
@@ -277,7 +277,7 @@
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="370" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27"><tspan class="emoji"></tspan> Swift +  <tspan class="emoji"></tspan>UIKit을 주로 사용하며 </text>
-    <text x="15" y="50">요즘은 Swift 로 알고리즘 풀이에 관심이 많습니다</text>
+    <text x="15" y="50">프로젝트를 진행하며 배우는 것에 흥미를 느낍니다.</text>
   </g>
 
   <!-- typing 4 -->
@@ -300,7 +300,7 @@
 
   
   <g transform="translate(10, 192)" class="msg-4">
-    <rect width="220" height="42" rx="18.0355" class="bubble" />
+    <rect width="205" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27"><a href="https://velog.io/@soyeon207">VELOG</a> 에도 놀러오세요</text>
   </g>
 
@@ -325,7 +325,7 @@
   <!-- Thanks -->
   <g transform="translate(10, 240)" class="msg-5">
     <rect width="310" height="66.13" rx="18.0355" class="bubble" />
-    <text x="15" y="27">앞으로 자주 보는 일이 있으면 좋겠습니다</text>
-    <text x="15" y="47">좋은 하루 보내세요  <tspan class="emoji">🍀</tspan></text>
+    <text x="15" y="27">앞으로 자주 보는 일이 있으면 좋겠습니다.</text>
+    <text x="15" y="47">좋은 하루 보내세요<tspan class="emoji">🍀</tspan></text>
   </g>
 </svg>
