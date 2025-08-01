@@ -275,9 +275,9 @@
 
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
-    <rect width="370" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27"><tspan class="emoji"></tspan> Swift +  <tspan class="emoji"></tspan>UIKit을 주로 사용하며 </text>
-    <text x="15" y="50">프로젝트를 진행하며 배우는 것에 흥미를 느낍니다.</text>
+    <rect width="480" height="66.1302" rx="18.0355" class="bubble" />
+    <text x="15" y="27"><tspan class="emoji"></tspan> 공식 문서와 신뢰할 수 있는 <tspan class="emoji"></tspan>다양한 자료를 참고하며 개념의</text>
+    <text x="15" y="50">배경과 동작 원리까지 깊이 있게 탐구하는 학습 태도를 지향합니다.</text>
   </g>
 
   <!-- typing 4 -->
