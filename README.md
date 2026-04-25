@@ -12,5 +12,3 @@
 <h2 style="display: inline-block; vertical-align: middle;">🏅Solved ac : </h2>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jjcw2227)](https://solved.ac/jjcw2227)
-
-[<img src="https://github.com/user-attachments/assets/e7548ad1-c483-4bdf-8ad9-96e1a907d257" width=350>](https://www.notion.so/iOS-2c50b4b6b65a80318144d7f91ba00c6d?source=copy_link) 
